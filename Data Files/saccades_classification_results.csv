@@ -1,0 +1,17 @@
+classifier,class,accuracy,f1_score
+Random Forest,NamingWITHinterference,0.75,0.73
+Random Forest,NamingWITHOUTinterference,0.72,0.7
+Random Forest,ReadingWITHinterference,0.74,0.72
+Random Forest,ReadingWITHOUTinterference,0.7,0.69
+SVM,NamingWITHinterference,0.6,0.61
+SVM,NamingWITHOUTinterference,0.65,0.64
+SVM,ReadingWITHinterference,0.64,0.63
+SVM,ReadingWITHOUTinterference,0.58,0.59
+ANN,NamingWITHinterference,0.68,0.67
+ANN,NamingWITHOUTinterference,0.66,0.65
+ANN,ReadingWITHinterference,0.67,0.66
+ANN,ReadingWITHOUTinterference,0.62,0.61
+Logistic Regression,NamingWITHinterference,0.59,0.58
+Logistic Regression,NamingWITHOUTinterference,0.61,0.6
+Logistic Regression,ReadingWITHinterference,0.6,0.59
+Logistic Regression,ReadingWITHOUTinterference,0.56,0.55
